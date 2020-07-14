@@ -5248,7 +5248,7 @@ button.btn-white:hover {
 	list-style: none;
 }
 .footer_link.list_arrow li a::before {
-	content: "\f125";
+	content: "ㆍ";
 	font-family: ionicons;
 	font-size: 14px;
 	margin-right: 10px;
