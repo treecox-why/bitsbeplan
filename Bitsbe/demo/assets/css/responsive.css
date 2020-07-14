@@ -7,7 +7,7 @@
 }
 .banner_image_right_big {
 	min-width: 700px;
-}	
+}
 }
 
 /* -------------------------------------------------
@@ -21,7 +21,7 @@
 .pr_box h6 {
 	font-size: 14px;
 }
-.pr_box p { 
+.pr_box p {
 	font-size: 13px;
 }
 .roadmap_list p {
@@ -121,28 +121,28 @@ section.small_pt {
 	padding-top: 40px;
 }
 .res_lg_mb_20 {
-	margin-bottom: 20px;	
+	margin-bottom: 20px;
 }
 .res_lg_mb_30 {
-	margin-bottom: 30px;	
+	margin-bottom: 30px;
 }
 .res_lg_mb_40 {
-	margin-bottom: 40px;	
+	margin-bottom: 40px;
 }
 .res_lg_mb_50 {
-	margin-bottom: 50px;	
+	margin-bottom: 50px;
 }
 .res_lg_mt_20 {
-	margin-top: 20px;	
+	margin-top: 20px;
 }
 .res_lg_mt_30 {
-	margin-top: 30px;	
+	margin-top: 30px;
 }
 .res_lg_mt_40 {
-	margin-top: 40px;	
+	margin-top: 40px;
 }
 .res_lg_mt_50 {
-	margin-top: 50px;	
+	margin-top: 50px;
 }
 .text_lg_center {
 	text-align: center;
@@ -399,28 +399,28 @@ p,
 	margin-bottom:20px;
 }
 .res_md_mb_20 {
-	margin-bottom: 20px;	
+	margin-bottom: 20px;
 }
 .res_md_mb_30 {
-	margin-bottom: 30px;	
+	margin-bottom: 30px;
 }
 .res_md_mb_40 {
-	margin-bottom: 40px;	
+	margin-bottom: 40px;
 }
 .res_md_mb_50 {
-	margin-bottom: 50px;	
+	margin-bottom: 50px;
 }
 .res_md_mt_20 {
-	margin-top: 20px;	
+	margin-top: 20px;
 }
 .res_md_mt_30 {
-	margin-top: 30px;	
+	margin-top: 30px;
 }
 .res_md_mt_40 {
-	margin-top: 40px;	
+	margin-top: 40px;
 }
 .res_md_mt_50 {
-	margin-top: 50px;	
+	margin-top: 50px;
 }
 .res_md_pr_15 {
 	padding-right:15px !important;
@@ -686,7 +686,7 @@ header.nav-fixed {
 	display: table;
 	margin: 40px auto 0;
 	padding: 0 10px;
-}	
+}
 .vertical_social li {
     padding: 5px 10px;
 }
@@ -745,28 +745,28 @@ section.small_pb {
 	font-size: 20px;
 }
 .res_sm_mb_20 {
-	margin-bottom: 20px;	
+	margin-bottom: 20px;
 }
 .res_sm_mb_30 {
-	margin-bottom: 30px;	
+	margin-bottom: 30px;
 }
 .res_sm_mb_40 {
-	margin-bottom: 40px;	
+	margin-bottom: 40px;
 }
 .res_sm_mb_50 {
-	margin-bottom: 50px;	
+	margin-bottom: 50px;
 }
 .res_sm_mt_20 {
-	margin-top: 20px;	
+	margin-top: 20px;
 }
 .res_sm_mt_30 {
-	margin-top: 30px;	
+	margin-top: 30px;
 }
 .res_sm_mt_40 {
-	margin-top: 40px;	
+	margin-top: 40px;
 }
 .res_sm_mt_50 {
-	margin-top: 50px;	
+	margin-top: 50px;
 }
 .res_sm_pt_0 {
 	padding-top: 0;
@@ -786,7 +786,7 @@ section.small_pb {
 .small_space {
 	margin-top: 0;
 }
-.title_default_light h4, 
+.title_default_light h4,
 .title_default_dark h4,
 .title_blue_dark h4,
 .title_dark h4,
@@ -801,7 +801,7 @@ section.small_pb {
 	padding-top: 100px;
 	padding-bottom: 50px;
 }
-.section_wave, 
+.section_wave,
 .section_wave2 {
 	background-size: contain;
 	height: 34px;
@@ -1006,7 +1006,7 @@ section.small_pb {
 .chat_title {
 	display: block;
 }
-.token_gradiant::before, 
+.token_gradiant::before,
 .token_gradiant::after {
     height: 520px;
     width: 520px;
@@ -1051,28 +1051,28 @@ p,
 	margin-top: 30px;
 }
 .res_xs_mb_20 {
-	margin-bottom: 20px;	
+	margin-bottom: 20px;
 }
 .res_xs_mb_30 {
-	margin-bottom: 30px;	
+	margin-bottom: 30px;
 }
 .res_xs_mb_40 {
-	margin-bottom: 40px;	
+	margin-bottom: 40px;
 }
 .res_xs_mb_50 {
-	margin-bottom: 50px;	
+	margin-bottom: 50px;
 }
 .res_xs_mt_20 {
-	margin-top: 20px;	
+	margin-top: 20px;
 }
 .res_xs_mt_30 {
-	margin-top: 30px;	
+	margin-top: 30px;
 }
 .res_xs_mt_40 {
-	margin-top: 40px;	
+	margin-top: 40px;
 }
 .res_xs_mt_50 {
-	margin-top: 50px;	
+	margin-top: 50px;
 }
 .banner_rouded_bg {
 	border-radius: 0 0 50px;
@@ -1189,7 +1189,7 @@ p,
 @media only screen and (max-width: 480px) {
 /*Demo list css*/
 .demo .txt {
-	font-size: 14px;
+	font-size: 0px;
 }
 .demo li a {
 	font-size: 23px;
@@ -1197,7 +1197,7 @@ p,
 	line-height: 35px;
 	width: 35px;
 }
-/*End Demo list css*/	
+/*End Demo list css*/
 
 body,
 .btn {
@@ -1247,7 +1247,7 @@ section.small_pb {
 .hide_m {
 	display: none;
 }
-.title_default_light h4, 
+.title_default_light h4,
 .title_default_dark h4,
 .title_blue_dark h4,
 .title_dark h4,
@@ -1537,7 +1537,7 @@ section.small_pb {
   max-width: 380px
 ---------------------------------------------------*/
 @media only screen and (max-width: 380px) {
-.title_default_light h4, 
+.title_default_light h4,
 .title_default_dark h4,
 .title_blue_dark h4,
 .title_dark h4,
@@ -1578,7 +1578,7 @@ section.small_pb {
 .not_found h3 {
 	font-size: 20px;
 }
-.action_block a, 
+.action_block a,
 .action_block ul {
 	display: table;
 }
@@ -1636,7 +1636,7 @@ section.small_pb {
 .tk_countdown {
 	padding: 10px;
 }
-.token_info_table .table td:first-child, 
+.token_info_table .table td:first-child,
 .token_info_table_s2 .table td:first-child {
 	font-size: 14px;
 }
